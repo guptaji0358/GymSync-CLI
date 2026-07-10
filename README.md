@@ -5,14 +5,16 @@
 ### ⚡ Ultra-Fast • Terminal-First • Browser Automation Framework
 
 ```
- ██████╗ ██╗   ██╗███╗   ███╗███████╗██╗   ██╗███╗   ██╗ ██████╗
-██╔════╝ ██║   ██║████╗ ████║██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝
-██║  ███╗██║   ██║██╔████╔██║███████╗ ╚████╔╝ ██╔██╗ ██║██║
-██║   ██║██║   ██║██║╚██╔╝██║╚════██║  ╚██╔╝  ██║╚██╗██║██║
-╚██████╔╝╚██████╔╝██║ ╚═╝ ██║███████║   ██║   ██║ ╚████║╚██████╗
- ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝
 
-        ⚡ Command Line Gym Automation Framework ⚡
+  ██████╗ ██╗   ██╗███╗   ███╗    ███████╗██╗   ██╗███╗   ██╗ ██████╗
+ ██╔════╝ ╚██╗ ██╔╝████╗ ████║    ██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝
+ ██║  ███╗ ╚████╔╝ ██╔████╔██║    ███████╗ ╚████╔╝ ██╔██╗ ██║██║
+ ██║   ██║  ╚██╔╝  ██║╚██╔╝██║    ╚════██║  ╚██╔╝  ██║╚██╗██║██║
+ ╚██████╔╝   ██║   ██║ ╚═╝ ██║    ███████║   ██║   ██║ ╚████║╚██████╗
+  ╚═════╝    ╚═╝   ╚═╝     ╚═╝    ╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝
+
+          ⚡ Command-Line Gym Automation Framework ⚡
+
 ```
 
 **A modern, high-performance command-line automation framework powered by Python and Selenium WebDriver.**
@@ -32,6 +34,11 @@
 [![GitHub Stars](https://img.shields.io/github/stars/guptaji0358/GymSync-CLI?style=social)](https://github.com/guptaji0358/GymSync-CLI/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/guptaji0358/GymSync-CLI?style=social)](https://github.com/guptaji0358/GymSync-CLI/network)
 [![GitHub Issues](https://img.shields.io/github/issues/guptaji0358/GymSync-CLI)](https://github.com/guptaji0358/GymSync-CLI/issues)
+
+## 🤖 AI-Assisted Development
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Assisted-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Assisted-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
