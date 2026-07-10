@@ -1066,45 +1066,11 @@ Would you like to register?
 # 📁 Project Structure
 
 ```text
-GymSync-CLI
+GymSync-CLI/
 │
 ├── chrome_profile/
-│   ├── Default/
-│   ├── Cache/
-│   ├── Cookies/
-│   └── Local Storage/
-│
-├── config/
-│   ├── settings.json
-│   ├── mappings.json
-│   └── classes.json
-│
-├── assets/
-│   ├── icons/
-│   ├── images/
-│   └── logos/
-│
-├── javascript/
-│   ├── inject.js
-│   ├── sync.js
-│   ├── update.js
-│   └── storage.js
-│
-├── logs/
-│   ├── latest.log
-│   └── history.log
-│
-├── core/
-│   ├── session.py
-│   ├── browser.py
-│   ├── scheduler.py
-│   ├── accounts.py
-│   ├── storage.py
-│   └── terminal.py
-│
-├── requirements.txt
-├── README.md
-└── main.py
+├── 49_GYM__SYNC.py
+└── README.md
 ```
 
 ---
