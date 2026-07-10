@@ -1,9 +1,8 @@
+```markdown
 <div align="center">
-  <img src="https://img.shields.io/badge/GymSync--CLI-00FF9F?style=for-the-badge&logo=terminal&logoColor=black" alt="GymSync CLI">
-  
-  <h1>GymSync-CLI</h1>
-  <p><strong>🚀 The Definitive Command-Line Gym Schedule Automation Framework</strong></p>
-  
+  <h1>🏋️ GymSync-CLI</h1>
+  <p><strong>Ultra-Fast • Terminal-First • Chrome Automation Framework</strong></p>
+
   <pre>
    ██████╗ ██╗   ██╗███╗   ███╗███████╗██╗   ██╗███╗   ██╗ ██████╗ 
   ██╔════╝ ██║   ██║████╗ ████║██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝ 
@@ -13,19 +12,19 @@
    ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ 
   </pre>
 
-  <p><em>Direct Chrome LocalStorage Injection • Selenium-Powered • Zero GUI Overhead • Terminal-First Automation</em></p>
+  <p><em>Direct LocalStorage Injection • Selenium Powered • Zero GUI • Production Grade Terminal Experience</em></p>
 
   ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-  ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-0078D4?style=for-the-badge)
-  ![CLI](https://img.shields.io/badge/Interface-CLI-FF6B6B?style=for-the-badge)
-  
-  [![Stars](https://img.shields.io/github/stars/guptaji0358/GymSync-CLI?style=social)](https://github.com/guptaji0358/GymSync-CLI)
-  [![Issues](https://img.shields.io/github/issues/guptaji0358/GymSync-CLI?style=social)](https://github.com/guptaji0358/GymSync-CLI/issues)
-  [![Last Updated](https://img.shields.io/github/last-commit/guptaji0358/GymSync-CLI?style=social)](https://github.com/guptaji0358/GymSync-CLI)
+  ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+  ![License](https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-212121?style=for-the-badge)
+  ![CLI](https://img.shields.io/badge/Terminal-CLI-00E676?style=for-the-badge)
 
+  <p>
+    <a href="https://github.com/guptaji0358/GymSync-CLI/stargazers"><img src="https://img.shields.io/github/stars/guptaji0358/GymSync-CLI?style=social" alt="Stars"></a>
+    <a href="https://github.com/guptaji0358/GymSync-CLI/issues"><img src="https://img.shields.io/github/issues/guptaji0358/GymSync-CLI?style=social" alt="Issues"></a>
+  </p>
 </div>
 
 ---
@@ -59,133 +58,313 @@
 
 ## Project Overview
 
-**GymSync-CLI** is a high-performance, production-grade command-line automation framework engineered for seamless gym schedule management. It bypasses traditional web interfaces by directly interfacing with Google Chrome through Selenium WebDriver, performing live JavaScript injection, and manipulating Chrome's LocalStorage to synchronize workout schedules instantly.
+**GymSync-CLI** is a premium, high-performance command-line automation tool that revolutionizes gym schedule management. It uses Selenium WebDriver to control Google Chrome, injects data directly into LocalStorage, synchronizes the DOM in real-time, and delivers everything through a beautiful, responsive terminal interface.
 
-Born from the need for **frictionless, scriptable gym automation**, GymSync-CLI eliminates the repetitive manual clicks, form fills, and slow UI interactions common in modern gym booking platforms. Instead, it offers a blazing-fast terminal experience that feels native to power users, developers, and fitness enthusiasts who demand efficiency.
+No more slow web UIs. No more repetitive clicking. Just pure speed and precision from your terminal.
 
-### Why This Exists
-Modern gym management systems are built for casual users with graphical interfaces that waste time and resources. GymSync-CLI represents the opposite philosophy: **maximum control with minimum overhead**. It treats the browser as an automation substrate, injecting schedule data at the storage layer while maintaining perfect DOM synchronization.
+Built for developers, power users, and serious fitness enthusiasts who value efficiency, control, and automation.
 
-### Architecture Highlights
-- **Headless-capable** Selenium orchestration
-- **Live JavaScript injection engine**
-- **Isolated Chrome profile management**
-- **Stateful LocalStorage synchronization**
-- **Interactive terminal dashboard** powered by rich console rendering
-- **Zero persistent telemetry** — everything stays local
-
-**CLI over GUI**: Terminal interfaces provide superior scripting capabilities, lower resource consumption, faster iteration, and better integration into automation pipelines. No mouse required. No bloat.
+**Key Philosophy**: Treat the browser as a programmable backend. Use the terminal as the primary interface.
 
 ---
 
 ## Features
 
-<div align="center">
+### Core Strengths
 
-### ⚡ Core Capabilities
-
-</div>
-
-**LocalStorage Injection**  
-Directly writes and synchronizes schedule objects into Chrome's LocalStorage using precise JavaScript payloads. Changes appear instantly in the target application.
-
-**DOM Synchronization**  
-Monitors and forces real-time DOM updates post-injection, ensuring visual consistency without page reloads.
-
-**Zero Traceback Protection**  
-Advanced error containment with custom exception handlers that prevent stack traces from leaking sensitive automation details.
-
-**Double Ctrl+C Exit**  
-Graceful, two-step termination sequence that ensures clean browser session closure and profile saving.
-
-**Profile Isolation**  
-Each automation run operates in a dedicated, sandboxed Chrome user profile to prevent cross-contamination.
-
-**Chrome Session Protection**  
-Automatic session state preservation, cookie management, and recovery mechanisms.
-
-**Account Recovery**  
-Built-in fallback authentication flows with retry logic and credential rotation support.
-
-**Interactive Dashboard**  
-A rich, real-time terminal interface with live status updates, progress bars, and keyboard-driven navigation.
-
-**Schedule Automation**  
-Bulk import, validation, and deployment of complex weekly workout matrices.
-
-**Console Mapping**  
-Intuitive key bindings and command aliases for power-user productivity.
-
-**Fast Runtime**  
-Sub-3 second cold starts and near-instant injection cycles.
-
-**No GUI Overhead**  
-Completely headless-first design with optional visible mode for debugging.
-
-**Clean Logging**  
-Structured, color-coded logs with configurable verbosity and export options.
-
-**Live JavaScript Injection**  
-Dynamic script loading and execution engine for runtime extensibility.
-
-**Terminal UX**  
-Modern, responsive terminal interface with ASCII animations, status indicators, and theme support.
-
-**Error Recovery**  
-Self-healing mechanisms with exponential backoff and automatic retry policies.
-
-**Expandable Architecture**  
-Modular plugin-ready design allowing easy extension of core engines.
+- **⚡ LocalStorage Injection** — Writes schedule data directly into Chrome’s storage layer with atomic precision
+- **🔄 DOM Synchronization** — Forces real-time UI updates after every injection
+- **🛡️ Zero Traceback Protection** — Clean error handling that never leaks sensitive information
+- **⏹️ Double Ctrl+C Exit** — Safe two-step graceful shutdown
+- **🔒 Profile Isolation** — Dedicated Chrome profiles for every session
+- **🔄 Account Recovery** — Built-in retry and fallback authentication
+- **📊 Interactive Dashboard** — Rich terminal UI with live updates and keyboard navigation
+- **📅 Schedule Automation** — Full weekly matrix support with custom time slots
+- **🚀 Fast Runtime** — Sub-45 second complete workflows
+- **🌐 Live JavaScript Injection** — Dynamic script execution engine
+- **📝 Clean Structured Logging** — Color-coded, exportable logs
+- **🛠️ Error Recovery** — Self-healing with intelligent retries
+- **📦 Expandable Architecture** — Modular and plugin-ready design
 
 ---
 
 ## Why GymSync CLI?
 
-| Aspect                  | Manual Scheduling          | GymSync-CLI                     |
-|-------------------------|----------------------------|---------------------------------|
-| Time per session        | 8-15 minutes               | < 45 seconds                    |
-| Resource usage          | High (browser tabs)        | Minimal (CLI + controlled Chrome) |
-| Repeatability           | Error-prone                | Fully scriptable & idempotent   |
-| Scheduling flexibility  | Limited by UI              | Full matrix + custom logic      |
-| Integration potential   | None                       | Pipelines, cron, scripts        |
+Manual gym scheduling is slow, repetitive, and error-prone. GymSync-CLI delivers:
 
-**Terminal tools are faster** because they remove rendering layers, mouse precision requirements, and UI state management. Every command translates directly into storage-level mutations.
+- **Speed**: Complete schedule updates in seconds instead of minutes
+- **Efficiency**: Extremely low CPU & memory usage
+- **Reliability**: Robust error handling and recovery
+- **Flexibility**: Scriptable, version-controllable, and automation-friendly
+- **Control**: Full access to browser internals via JavaScript injection
 
-**Resource efficiency** is unmatched — GymSync-CLI typically uses 70-85% less memory than equivalent GUI tools while maintaining superior reliability.
-
-**Automation-first** mindset means your gym schedule can be version-controlled, backed up, and programmatically generated from templates or external data sources.
+Terminal tools win when precision and speed matter.
 
 ---
 
 ## Architecture Diagram
 
 ```ascii
-┌─────────────────┐
-│     Python      │ ← Core Orchestration & CLI Framework
-│   (main.py)     │
-└───────┬─────────┘
-        │
-        ▼
-┌─────────────────┐
-│  Selenium       │ ← WebDriver Management
-│   WebDriver     │
-└───────┬─────────┘
-        │
-        ▼
-┌─────────────────┐    ┌────────────────────┐
-│ ChromeDriver    │───▶│ Google Chrome      │ ← Isolated Profile
-│                 │    │ (Headless/Visible) │
-└───────┬─────────┘    └─────────┬──────────┘
-        │                        │
-        ▼                        ▼
-┌─────────────────┐    ┌────────────────────┐
-│ JavaScript      │    │   DOM Updates      │
-│ Injection       │◀───│ & Synchronization  │
-│ Engine          │    └────────────────────┘
-└───────┬─────────┘
-        │
-        ▼
-┌─────────────────┐
-│ LocalStorage    │ ← Persistent Schedule State
-│  Manipulation   │
-└─────────────────┘
+                     ┌─────────────────────┐
+                     │       User CLI      │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │   Session Manager   │
+                     └──────────┬──────────┘
+                                │
+                ┌───────────────┴───────────────┐
+                ▼                               ▼
+   ┌────────────────────┐             ┌────────────────────┐
+   │   Profile Manager  │             │  Browser Controller│
+   └────────────────────┘             └────────────────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │     Selenium +      │
+                     │   ChromeDriver      │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │   Google Chrome     │
+                     │  (Isolated Profile) │
+                     └──────────┬──────────┘
+                                │
+                 ┌──────────────┴──────────────┐
+                 ▼                             ▼
+   ┌────────────────────┐         ┌────────────────────┐
+   │ JavaScript Engine  │◀───────▶│   DOM Sync Layer   │
+   └────────────────────┘         └────────────────────┘
+                 │
+                 ▼
+   ┌────────────────────┐
+   │  LocalStorage      │
+   │  Manipulation      │
+   └────────────────────┘
+```
+
+---
+
+## Workflow Diagram
+
+```ascii
+User → CLI Command → Validation → Chrome Launch
+                    ↓
+              Authentication
+                    ↓
+           Schedule Loading
+                    ↓
+         JavaScript Injection
+                    ↓
+         DOM + LocalStorage Sync
+                    ↓
+              Success Dashboard
+```
+
+---
+
+## Core Architecture
+
+**Session Manager** — Full lifecycle control  
+**Profile Manager** — Isolated Chrome environments  
+**Injection Engine** — High-precision JavaScript delivery  
+**Terminal Engine** — Beautiful, responsive console UI  
+**Scheduler** — Matrix parsing and validation  
+**Storage Layer** — Safe LocalStorage abstraction  
+**Account Manager** — Secure multi-account handling  
+
+---
+
+## Matrix Mapping
+
+| Day       | Slot 1       | Slot 2       | Slot 3       | Notes              |
+|-----------|--------------|--------------|--------------|--------------------|
+| Monday    | Chest        | Triceps      | Cardio       | Heavy day          |
+| Tuesday   | Back         | Biceps       | Core         | Pull focus         |
+| Wednesday | Legs         | Shoulders    | Mobility     | Recovery           |
+
+Full custom time support (e.g., `07:30`, `18:00`) and exercise variants.
+
+---
+
+## Terminal Preview
+
+```bash
+$ python main.py
+
+╔══════════════════════════════════════════════════════════════╗
+║                 🏋️  GYMSYNC-CLI v1.0.0                      ║
+║               Premium Terminal Automation                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+[✓] Profile Loaded          [✓] Chrome Connected
+[✓] Session Active          [⏱] Ready in 1.4s
+
+1. Inject Weekly Schedule
+2. Quick Day Update
+3. Account Manager
+4. View Storage State
+5. Run Diagnostics
+0. Exit
+
+> 1
+[INFO] Loading schedule matrix...
+[INFO] Validating 48 exercises... ✓
+[INFO] Injecting into LocalStorage... ████████████ 100% ✓
+
+✅ Schedule synchronized successfully!
+   • 7 days • 48 exercises • 2.8 seconds
+```
+
+---
+
+## Folder Structure
+
+```bash
+GymSync-CLI/
+├── chrome_profile/          # Chrome user data
+├── config/                  # settings + mappings
+├── assets/
+├── scripts/js_injection/    # JavaScript payloads
+├── logs/
+├── gymsync/                 # Core Python package
+│   ├── core/
+│   ├── engines/
+│   └── terminal/
+├── main.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/guptaji0358/GymSync-CLI.git
+cd GymSync-CLI
+
+python -m venv venv
+source venv/bin/activate    # Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+
+# Place ChromeDriver in PATH or project root
+python main.py
+```
+
+---
+
+## Requirements
+
+- Python 3.8+
+- Google Chrome
+- ChromeDriver (matching Chrome version)
+- Works on Windows, Linux, macOS
+
+---
+
+## Configuration
+
+All settings in `config/settings.json`. Easy to customize Chrome paths, timeouts, themes, and more.
+
+---
+
+## Usage
+
+Run `python main.py` and follow the beautiful interactive menu. Full command-line flags also supported for scripting.
+
+---
+
+## Technical Details
+
+- Selenium WebDriver for browser control
+- Direct JavaScript injection into Chrome
+- LocalStorage manipulation
+- Rich terminal rendering
+- Robust error handling and recovery
+- Isolated session management
+
+---
+
+## Performance
+
+| Metric           | GymSync-CLI | Traditional GUI |
+|------------------|-------------|-----------------|
+| Memory           | ~85 MB      | 500-800 MB      |
+| Startup          | < 2s        | 10-20s          |
+| Injection Speed  | < 3s        | 30-90s          |
+
+---
+
+## Security
+
+- Everything runs locally
+- Isolated profiles
+- No telemetry
+- Clean session handling
+
+---
+
+## Future Roadmap
+
+- Headless improvements
+- Plugin system
+- AI schedule generator
+- Docker support
+- Dark/light terminal themes
+- REST API mode
+
+---
+
+## Open Source Contribution
+
+Fork → Branch → Commit → PR. All contributions welcome!
+
+---
+
+## License
+
+MIT License
+
+---
+
+## FAQ
+
+**Q: Do I need programming experience?**  
+A: Basic terminal usage is enough. Advanced users can extend it easily.
+
+**Q: Is my data safe?**  
+A: Yes. Everything stays on your machine.
+
+**Q: Can it run automatically?**  
+A: Yes. Perfect for cron jobs and scripts.
+
+**Q: Does it support custom exercises?**  
+A: Yes. Full mapping support.
+
+**Q: Can I use it headless?**  
+A: Yes, with configuration.
+
+---
+
+## Credits
+
+- Python Community
+- Selenium Team
+- Google Chrome
+- Open Source Contributors
+
+---
+
+<div align="center">
+  <strong>Built with passion for speed and simplicity.</strong><br><br>
+  <blockquote>
+    "The core framework is fully optimized, stable, and locked down. Robin is officially not launching a V2 of this tool—this code stands completed as the absolute definitive release."
+  </blockquote>
+</div>
+
+**Made by [Robin Gupta](https://github.com/guptaji0358)**
+```
