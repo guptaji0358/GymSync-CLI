@@ -1074,20 +1074,13 @@ GymSync-CLI/
 ```
 
 ---
-
 ## 📂 Directory Overview
 
-| Folder | Purpose |
-|---------|----------|
-| `chrome_profile/` | Stores isolated Chrome profile data |
-| `config/` | Configuration and schedule mappings |
-| `assets/` | Static project assets |
-| `javascript/` | JavaScript injection scripts |
-| `logs/` | Runtime logs and diagnostics |
-| `core/` | Main application modules |
-| `main.py` | Application entry point |
-| `requirements.txt` | Python dependencies |
-| `README.md` | Project documentation |
+| Item | Description |
+|------|-------------|
+| **chrome_profile/** | Stores the isolated Google Chrome profile used for browser automation. |
+| **49_GYM__SYNC.py** | The complete GymSync-CLI application containing all automation logic, terminal interface, Selenium workflow, and schedule management. |
+| **README.md** | Project documentation, installation guide, and usage instructions. |
 
 ---
 
