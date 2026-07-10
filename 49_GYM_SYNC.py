@@ -18,8 +18,8 @@ class Color:
     UNDERLINE = '\033[4m'
     RESET = '\033[0m'
 
-ACCOUNT_EMAIL = "hema82471@gmail.com"
-ACCOUNT_PASSWORD = "crunchy123123roll"
+ACCOUNT_EMAIL = "robinTest@gmail.com"
+ACCOUNT_PASSWORD = "SuperMaturePassword"
 GYM_URL = "https://appbrewery.github.io/gym/"
 
 total_expected = 2 
