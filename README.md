@@ -8,11 +8,11 @@
 
 <div align="center">
 
-# 🏋️ GymSync-CLI
+<h1>🏋️ GymSync-CLI</h1>
 
-### ⚡ Command-Line Gym Automation Framework
+<h3>⚡ Ultra-Fast • Terminal-First • Browser Automation Framework</h3>
 
-*Fast • Lightweight • Selenium Powered • Open Source*
+<p><em>Fast • Lightweight • Selenium Powered • Open Source</em></p>
 
 </div>
 
