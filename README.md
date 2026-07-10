@@ -1,42 +1,34 @@
-# 🏋️ GymSync-CLI
-
 <div align="center">
+
+# 🏋️ GymSync-CLI
 
 ### ⚡ Ultra-Fast • Terminal-First • Browser Automation Framework
 
-```
+**Fast • Lightweight • Selenium Powered • Open Source**
 
-<div align="center">
+*A modern, high-performance command-line automation framework powered by Python and Selenium WebDriver.*
 
-<h1>🏋️ GymSync-CLI</h1>
+**Automate. Synchronize. Inject. Control.**
 
-<h3>⚡ Ultra-Fast • Terminal-First • Browser Automation Framework</h3>
-
-<p><em>Fast • Lightweight • Selenium Powered • Open Source</em></p>
-
-</div>
-
-```
-
-**A modern, high-performance command-line automation framework powered by Python and Selenium WebDriver.**
-
-*Automate. Synchronize. Inject. Control.*
-
----
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![CLI](https://img.shields.io/badge/Interface-Terminal-00C853?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge)
+![CLI](https://img.shields.io/badge/CLI-Terminal-00C853?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-Supported-0078D6?style=for-the-badge&logo=windows)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
-[![GitHub Stars](https://img.shields.io/github/stars/guptaji0358/GymSync-CLI?style=social)](https://github.com/guptaji0358/GymSync-CLI/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/guptaji0358/GymSync-CLI?style=social)](https://github.com/guptaji0358/GymSync-CLI/network)
-[![GitHub Issues](https://img.shields.io/github/issues/guptaji0358/GymSync-CLI)](https://github.com/guptaji0358/GymSync-CLI/issues)
+<br>
 
-## 🤖 AI-Assisted Development
+[![GitHub Stars](https://img.shields.io/github/stars/guptaji0358/GymSync-CLI?style=for-the-badge)](https://github.com/guptaji0358/GymSync-CLI/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/guptaji0358/GymSync-CLI?style=for-the-badge)](https://github.com/guptaji0358/GymSync-CLI/network)
+[![GitHub Issues](https://img.shields.io/github/issues/guptaji0358/GymSync-CLI?style=for-the-badge)](https://github.com/guptaji0358/GymSync-CLI/issues)
+
+<br>
+
+### 🤖 AI-Assisted Development
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-Assisted-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-Assisted-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
