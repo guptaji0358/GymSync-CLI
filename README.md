@@ -49,6 +49,30 @@ Whether you're a developer exploring browser automation or a power user looking 
 
 ---
 
+# 🎥 Demo
+
+Experience GymSync-CLI in action through the official demonstration video.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=83uUFUtQ_b4">
+    <img src="https://img.youtube.com/vi/83uUFUtQ_b4/maxresdefault.jpg"
+         alt="GymSync-CLI Demo"
+         width="900">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=83uUFUtQ_b4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
+</p>
+
+<p align="center">
+Click the thumbnail above to watch the complete GymSync-CLI demonstration.
+</p>
+
+---
+
 # ✨ Highlights
 
 - ⚡ High-speed browser automation
@@ -85,6 +109,7 @@ This results in:
 # 📑 Table of Contents
 
 - [🚀 Introduction](#-introduction)
+- - [🎥 Demo](#-demo)
 - [✨ Highlights](#-highlights)
 - [🎯 Design Philosophy](#-design-philosophy)
 - [📖 Project Overview](#-project-overview)
