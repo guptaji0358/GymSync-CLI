@@ -1,3 +1,6 @@
+# Project - GYM SYNC
+# ------------------
+
 import os
 import time
 import sys
@@ -18,8 +21,8 @@ class Color:
     UNDERLINE = '\033[4m'
     RESET = '\033[0m'
 
-ACCOUNT_EMAIL = "robinTest@gmail.com"
-ACCOUNT_PASSWORD = "SuperMaturePassword"
+ACCOUNT_EMAIL = "cliApp@gmail.com"
+ACCOUNT_PASSWORD = "password"
 GYM_URL = "https://appbrewery.github.io/gym/"
 
 total_expected = 2 
@@ -27,27 +30,28 @@ ctrl_c_counter = 0
 is_logged_in = False
 
 DAYS_MAP = {
-    "1": "Monday", "2": "Tuesday", "3": "Wednesday", 
-    "4": "Thursday", "5": "Friday", "6": "Saturday", "7": "Sunday"
-}
+                "1": "Monday", "2": "Tuesday", "3": "Wednesday", 
+                "4": "Thursday", "5": "Friday", "6": "Saturday", "7": "Sunday"
+            }
 
 PRESET_TIMES = {
-    "1": "6:00 AM", "2": "7:00 AM", "3": "8:00 AM", "4": "9:00 AM", "5": "10:00 AM",
-    "6": "11:00 AM", "7": "12:00 PM", "8": "1:00 PM", "9": "2:00 PM", "10": "3:00 PM",
-    "11": "4:00 PM", "12": "5:00 PM", "13": "6:00 PM", "14": "7:00 PM", "15": "8:00 PM"
-}
+                    "1": "6:00 AM", "2": "7:00 AM", "3": "8:00 AM", "4": "9:00 AM", "5": "10:00 AM",
+                    "6": "11:00 AM", "7": "12:00 PM", "8": "1:00 PM", "9": "2:00 PM", "10": "3:00 PM",
+                    "11": "4:00 PM", "12": "5:00 PM", "13": "6:00 PM", "14": "7:00 PM", "15": "8:00 PM"
+                }
 
 RAW_CLASSES = [
-    "BodyPump", "Boxing", "Cardio Blast", "CrossFit", "Dance Fitness", 
-    "General Training", "HIIT Class", "Kickboxing", "Pilates", 
-    "Power Lifting", "Spin Class", "Strength & Conditioning", "Yoga"
-]
+                    "BodyPump", "Boxing", "Cardio Blast", "CrossFit", "Dance Fitness", 
+                    "General Training", "HIIT Class", "Kickboxing", "Pilates", 
+                    "Power Lifting", "Spin Class", "Strength & Conditioning", "Yoga"
+                ]
+
 CLASS_MAP = {str(i + 1): class_name for i, class_name in enumerate(sorted(RAW_CLASSES))}
 
 tracked_calendar = {
-    "Thursday": {"class_name": "HIIT Class", "time": "6:00 PM", "status": "Book Class"},
-    "Tuesday": {"class_name": "Spin Class", "time": "6:00 PM", "status": "Join Waitlist"}
-}
+                        "Thursday": {"class_name": "HIIT Class", "time": "6:00 PM", "status": "Book Class"},
+                        "Tuesday": {"class_name": "Spin Class", "time": "6:00 PM", "status": "Join Waitlist"}
+                    }
 
 print(f"{Color.BOLD}{Color.CYAN}🚀 Initializing Interactive Automation Profile...{Color.RESET}")
 
