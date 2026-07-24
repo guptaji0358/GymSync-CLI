@@ -1,163 +1,204 @@
-<a name="top"></a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=260&section=header&text=GymSync-CLI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ultra-Fast%20%E2%80%A2%20Terminal-First%20%E2%80%A2%20Browser%20Automation%20Framework&descAlignY=58&descSize=18" width="100%"/>
+</div>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:43b02a&height=220&section=header&text=GymSync-CLI&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Terminal-First%20Browser%20Automation%20Framework&descAlignY=58&descSize=20" />
+<p><b>Automate. Synchronize. Inject. Control.</b></p>
+<p>A modern, high-performance command-line automation framework powered by Python and Selenium WebDriver.</p>
 
-<br>
+<img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Google-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"/>
+<img src="https://img.shields.io/badge/CLI-Terminal-00C853?style=for-the-badge" alt="CLI"/>
+<img src="https://img.shields.io/badge/Windows-Supported-0078D6?style=for-the-badge&logo=windows" alt="Windows"/>
+<img src="https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge" alt="Open Source"/>
+<img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License"/>
 
-<img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI-Terminal-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
+<br/><br/>
 
-<br>
+<a href="https://github.com/guptaji0358/GymSync-CLI/stargazers"><img src="https://img.shields.io/github/stars/guptaji0358/GymSync-CLI?style=for-the-badge&color=FFD700" alt="Stars"/></a>
+<a href="https://github.com/guptaji0358/GymSync-CLI/network"><img src="https://img.shields.io/github/forks/guptaji0358/GymSync-CLI?style=for-the-badge&color=8957e5" alt="Forks"/></a>
+<a href="https://github.com/guptaji0358/GymSync-CLI/issues"><img src="https://img.shields.io/github/issues/guptaji0358/GymSync-CLI?style=for-the-badge&color=f85149" alt="Issues"/></a>
 
-<img src="https://img.shields.io/github/stars/guptaji0358/GymSync-CLI?style=for-the-badge&color=f1e05a&label=STARS" />
-<img src="https://img.shields.io/github/forks/guptaji0358/GymSync-CLI?style=for-the-badge&color=blue&label=FORKS" />
-<img src="https://img.shields.io/github/issues/guptaji0358/GymSync-CLI?style=for-the-badge&color=critical&label=ISSUES" />
-<img src="https://img.shields.io/github/last-commit/guptaji0358/GymSync-CLI?style=for-the-badge&color=success&label=LAST%20COMMIT" />
+<br/><br/>
 
-<br><br>
+<a href="https://www.youtube.com/watch?v=83uUFUtQ_b4"><img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"/></a>
+<a href="#-quick-start--installation"><img src="https://img.shields.io/badge/⚡%20QUICK%20START-238636?style=for-the-badge&logo=rocket&logoColor=white" alt="Quick Start"/></a>
+<a href="https://github.com/guptaji0358/GymSync-CLI"><img src="https://img.shields.io/badge/⭐%20STAR%20REPO-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Star Repo"/></a>
 
-<a href="https://www.youtube.com/watch?v=83uUFUtQ_b4"><img src="https://img.shields.io/badge/▶_WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="#-quick-start"><img src="https://img.shields.io/badge/⚡_QUICK_START-1f6feb?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-<a href="https://github.com/guptaji0358/GymSync-CLI/stargazers"><img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-f1e05a?style=for-the-badge&logo=github&logoColor=black" /></a>
+<br/><br/>
 
-<br><br>
-
-<i>Automate. Synchronize. Inject. Control.</i><br>
-<sub>A modern, high-performance command-line automation framework powered by Python and Selenium WebDriver.</sub>
+<p><b>🤖 AI-Assisted Development</b></p>
+<img src="https://img.shields.io/badge/ChatGPT-Assisted-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Gemini-Assisted-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 
 </div>
 
-<br>
+<br/>
 
-<table>
+<div align="center">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td align="center" width="50%">
-<a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-Assisted-10A37F?style=flat-square&logo=openai&logoColor=white" /></a>
-</td>
-<td align="center" width="50%">
-<a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-Assisted-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" /></a>
+<td align="center" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:18px;">
+<h3>🚀 Introduction</h3>
+<p>GymSync-CLI is a <b>high-performance browser automation framework</b> designed to automate gym schedule management directly from the terminal — no slow GUIs, just fast, controlled automation.</p>
 </td>
 </tr>
 </table>
+</div>
 
-<br>
+<p>Instead of relying on slow graphical interfaces, GymSync-CLI communicates with <b>Google Chrome</b> using <b>Selenium WebDriver</b>, executes custom JavaScript, synchronizes browser data through <b>LocalStorage</b>, and updates the website in real time.</p>
 
-## 📖 Overview
+<p>The project focuses on <b>speed</b>, <b>automation</b>, <b>clean architecture</b>, and <b>developer-friendly workflows</b>, making repetitive scheduling tasks nearly effortless.</p>
 
-GymSync-CLI treats the browser as a **programmable engine, not a manual interface**. Instead of relying on slow graphical interfaces, it communicates with Google Chrome via Selenium WebDriver, injects JavaScript, synchronizes data through LocalStorage, and updates gym scheduling data in real time — all from a clean, interactive terminal dashboard.
+<blockquote>
+<p>"Treat the browser as a programmable engine, not as a manual interface."</p>
+</blockquote>
 
-<br>
+<br/>
 
-## 🔥 Key Capabilities
+## 🎯 Key Capabilities
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td width="50%" valign="top">
-<div style="background-color:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
+<td width="50%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
 <h3>⚡ Direct LocalStorage Injection</h3>
-<p>Serialized schedule data is injected straight into the browser's LocalStorage — no temp files, instant synchronization, real-time state updates.</p>
-</div>
+<p>Injects serialized schedule data directly into the browser's LocalStorage instead of manually clicking through dozens of elements.</p>
+<ul>
+<li>🚀 Extremely fast updates</li>
+<li>📦 No temporary files</li>
+<li>🔄 Real-time synchronization</li>
+</ul>
 </td>
-<td width="50%" valign="top">
-<div style="background-color:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
+<td width="50%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
 <h3>🌐 Live DOM Synchronization</h3>
-<p>JavaScript routines refresh the active webpage immediately after injection, keeping every UI element in sync without manual interaction.</p>
-</div>
+<p>Executes JavaScript routines that refresh and synchronize the active webpage the instant data is injected.</p>
+<ul>
+<li>Instant UI updates</li>
+<li>Reduced user interaction</li>
+<li>Cleaner automation flow</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<div style="background-color:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
+<td width="50%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
 <h3>🔒 Isolated Chrome Profiles</h3>
-<p>Every automation session runs inside its own dedicated Chrome profile — separate cookies, saved preferences, zero interference with your personal browser.</p>
-</div>
+<p>Every automation session runs inside its own dedicated <code>chrome_profile/</code>, separate from your personal browser.</p>
+<ul>
+<li>Separate login sessions</li>
+<li>Persistent cookies & preferences</li>
+<li>Safe testing environment</li>
+</ul>
 </td>
-<td width="50%" valign="top">
-<div style="background-color:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
-<h3>🧠 Intelligent Account Handling</h3>
-<p>Continuously monitors auth state — expired sessions, logouts, and validation errors pause execution safely instead of crashing.</p>
-</div>
+<td width="50%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
+<h3>🧠 Intelligent Account Management</h3>
+<p>Monitors browser state during authentication and pauses gracefully instead of crashing on errors.</p>
+<ul>
+<li>Register / retry / exit safely</li>
+<li>Session recovery</li>
+<li>Zero traceback protection</li>
+</ul>
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 ## 🎥 Live Demo
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=83uUFUtQ_b4">
-<img src="https://img.youtube.com/vi/83uUFUtQ_b4/maxresdefault.jpg" alt="GymSync-CLI Demo" width="720" style="border-radius:12px;border:1px solid #30363d;" />
+<img src="https://img.youtube.com/vi/83uUFUtQ_b4/maxresdefault.jpg" alt="GymSync-CLI Demo" width="720" style="border-radius:12px;border:1px solid #30363d;"/>
 </a>
-<br><br>
-<a href="https://www.youtube.com/watch?v=83uUFUtQ_b4"><img src="https://img.shields.io/badge/▶%20Watch%20Full%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<br/><br/>
+<a href="https://www.youtube.com/watch?v=83uUFUtQ_b4"><img src="https://img.shields.io/badge/▶%20Watch%20Full%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/></a>
+<p><i>Click the thumbnail above to watch the complete GymSync-CLI demonstration.</i></p>
 </div>
 
-<br>
+<br/>
 
-## 💻 CLI / Workflow Demo
+## 🖥️ CLI / Workflow Demo
 
-<pre><code>══════════════════════════════════════════════════════════════════
+<pre><code style="background-color:#0d1117;color:#58a6ff;">══════════════════════════════════════════════════════════════════
                 🏋️  GYM AUTOMATION DASHBOARD
 ══════════════════════════════════════════════════════════════════
+
 Status
-✔ Browser Connected     ✔ Session Active
-✔ Chrome Profile Loaded ✔ Schedule Ready
+
+✔ Browser Connected
+✔ Session Active
+✔ Chrome Profile Loaded
+✔ Schedule Ready
+
 ──────────────────────────────────────────────────────────────────
-1. View Booked Classes        6. Reload Browser
-2. Sync Weekly Schedule        7. Clear Terminal
-3. Delete Existing Schedule    8. Switch Account
-4. Diagnostics                 9. Exit
+
+1. View Booked Classes
+2. Sync Weekly Schedule
+3. Delete Existing Schedule
+4. Diagnostics
 5. Manage Custom Classes
+6. Reload Browser
+7. Clear Terminal
+8. Switch Account
+9. Exit
+
 ──────────────────────────────────────────────────────────────────
+
 Select Option > 2
 
-[INFO] Loading Weekly Schedule...
+Loading Weekly Schedule...
 ██████████████████████████████ 100%
-[INFO] Checking Browser...        ✔ Connected
-[INFO] Injecting JavaScript...
+
+Checking Browser...
+✔ Connected
+
+Injecting JavaScript...
 ██████████████████████████████ 100%
-[INFO] Synchronizing LocalStorage...
+
+Synchronizing LocalStorage...
 ██████████████████████████████ 100%
-[INFO] Refreshing DOM...
+
+Refreshing DOM...
 ██████████████████████████████ 100%
-[SUCCESS] Schedule Updated Successfully
+
+✔ Schedule Updated Successfully
 Elapsed Time : 2.84 Seconds
 </code></pre>
 
-<br>
+<br/>
 
-## 🧰 Core Tech Stack
+## ⚙️ Core Tech Stack
 
-<table width="100%">
-<tr>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><b>Python 3.8+</b><br><sub>Core Runtime</sub></td>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /><br><b>Selenium</b><br><sub>Browser Automation</sub></td>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /><br><b>Google Chrome</b><br><sub>Target Browser</sub></td>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br><b>JavaScript</b><br><sub>DOM Injection</sub></td>
+<table width="100%" style="border-collapse:collapse;text-align:center;">
+<tr bgcolor="#0d1117">
+<td width="25%" style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/><b>Python</b><br/>Core Runtime</td>
+<td width="25%" style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium"/><br/><b>Selenium</b><br/>WebDriver Automation</td>
+<td width="25%" style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome"/><br/><b>Google Chrome</b><br/>Target Browser</td>
+<td width="25%" style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><b>JavaScript</b><br/>DOM Manipulation</td>
 </tr>
-<tr>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br><b>Git</b><br><sub>Version Control</sub></td>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><br><b>Windows</b><br><sub>Supported OS</sub></td>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br><b>Linux</b><br><sub>Supported OS</sub></td>
-<td align="center" width="25%"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /><br><b>macOS</b><br><sub>Supported OS</sub></td>
+<tr bgcolor="#0d1117">
+<td style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/><b>Git</b><br/>Version Control</td>
+<td style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows"/><br/><b>Windows/Linux/macOS</b><br/>Cross Platform</td>
+<td style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="CLI"/><br/><b>Terminal / CLI</b><br/>User Interface</td>
+<td style="border:1px solid #30363d;padding:14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="48" height="48" alt="LocalStorage"/><br/><b>LocalStorage API</b><br/>Data Sync</td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-## 🚀 Quick Start
+## 🚀 Quick Start & Installation
 
-1. **Clone the repository**
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:18px;">
+
+<b>1. Clone the Repository</b>
 
 <pre><code>git clone https://github.com/guptaji0358/GymSync-CLI.git
 cd GymSync-CLI</code></pre>
 
-2. **Create and activate a virtual environment**
+<b>2. Create a Virtual Environment</b>
 
 <pre><code># Windows
 python -m venv venv
@@ -167,105 +208,180 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate</code></pre>
 
-3. **Install dependencies**
+<b>3. Install Dependencies</b>
 
 <pre><code>pip install -r requirements.txt
 # or manually
 pip install selenium</code></pre>
 
-4. **Install Google Chrome + matching ChromeDriver**, then run:
+<b>4. Install Google Chrome</b>
+<p>Download and install the latest version of Google Chrome — GymSync-CLI is optimized specifically for Chrome-based automation.</p>
+
+<b>5. Install ChromeDriver</b>
+<p>Download the ChromeDriver version matching your installed Chrome browser and ensure it is accessible through your system PATH.</p>
+
+<b>6. Run GymSync-CLI</b>
 
 <pre><code>python 49_GYM__SYNC.py</code></pre>
 
-<br>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🔐 Setup & Credentials Guide
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td style="background-color:#161b22;border-left:4px solid #d29922;border-radius:6px;padding:14px;">
-<b>⚠️ Warning — Chrome Profile</b><br>
-The <code>chrome_profile/</code> folder stores cookies, session tokens, and preferences. Deleting it resets all logged-in sessions. Never commit this folder to version control.
+<td bgcolor="#3d2b0d" style="border:1px solid #9e6a03;border-radius:10px;padding:16px;">
+<b>⚠️ WARNING — Chrome Profile Isolation</b>
+<p>GymSync-CLI stores browser session data (cookies, login sessions, preferences) inside <code>chrome_profile/</code>. Do not delete this folder unless you intend to reset your login state.</p>
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td style="background-color:#161b22;border-left:4px solid #1f6feb;border-radius:6px;padding:14px;">
-<b>ℹ️ Note — ChromeDriver Version</b><br>
-ChromeDriver <b>must match</b> your installed Chrome version exactly, or Selenium will fail to attach. Ensure it is available on your system PATH.
+<td bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
+<b>📋 Prerequisites Checklist</b>
+<ul>
+<li>Python 3.8+ installed and on PATH</li>
+<li>Google Chrome (latest stable release)</li>
+<li>ChromeDriver matching your Chrome version</li>
+<li>Git (recommended for cloning)</li>
+<li>Active internet connection for login/authentication</li>
+</ul>
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td style="background-color:#161b22;border-left:4px solid #3fb950;border-radius:6px;padding:14px;">
-<b>✅ Tip — Isolation</b><br>
-GymSync-CLI never touches your personal Chrome profile or uploads data to the cloud — everything stays local and isolated.
+<td bgcolor="#2d1a1a" style="border:1px solid #f85149;border-radius:10px;padding:16px;">
+<b>🚫 No Cloud Storage</b>
+<p>GymSync-CLI does <b>not</b> upload schedule data to external cloud services. All runtime information remains on your local machine inside the isolated Chrome profile.</p>
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-## 🎓 Concepts Mastered
+## 🧩 Concepts Mastered
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td width="33%" valign="top">
-<h4>🏗️ Modular Architecture</h4>
-<p>Session Manager, Browser Controller, Schedule Engine, and Profile Manager operate as independent, replaceable modules.</p>
+<td width="33%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:14px;">
+<b>⚙️ Browser Automation</b>
+<p>Selenium WebDriver control, session lifecycle management, and headless-ready architecture.</p>
 </td>
-<td width="33%" valign="top">
-<h4>🛡️ Defensive Engineering</h4>
-<p>Zero-traceback exception handling, isolated sessions, and controlled Ctrl+C interrupt confirmation flows.</p>
+<td width="33%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:14px;">
+<b>🔥 JavaScript Injection</b>
+<p>Dynamic JS payload generation, DOM manipulation, and LocalStorage read/write operations from Python.</p>
 </td>
-<td width="33%" valign="top">
-<h4>🌐 Browser-as-Runtime</h4>
-<p>Direct JavaScript injection and LocalStorage manipulation instead of brittle UI-click automation.</p>
+<td width="33%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:14px;">
+<b>🧱 Modular Architecture</b>
+<p>Session Manager, Browser Controller, Schedule Engine, and Profile Manager — each with a single responsibility.</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:14px;">
+<b>🛡️ Defensive Error Handling</b>
+<p>Zero-traceback exception management with clean, structured terminal logging (INFO / WARNING / SUCCESS / ERROR).</p>
+</td>
+<td width="33%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:14px;">
+<b>⌨️ CLI/UX Design</b>
+<p>Interactive dashboards, controlled keyboard interrupts, and confirmation-driven workflows in pure terminal.</p>
+</td>
+<td width="33%" valign="top" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:14px;">
+<b>🔒 Security & Isolation</b>
+<p>Isolated browser profiles, no cloud storage, continuous session validation, and safe shutdown routines.</p>
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 ## 🛣️ Open Source & Roadmap
 
-- [ ] 🚀 Headless automation mode
-- [ ] 🔔 Desktop notifications (Windows / Linux / macOS)
-- [ ] 📅 Built-in task scheduler for auto-sync
-- [ ] 📈 Analytics dashboard for scheduling history
-- [ ] 🔌 Plugin system for custom exercises & providers
-- [ ] 🐳 Docker containerized deployment
-- [ ] 🤖 AI-assisted schedule suggestions
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
+<ul>
+<li>🚀 Headless Automation — run Chrome fully in the background</li>
+<li>🔔 Desktop Notifications — Windows / Linux / macOS integrations</li>
+<li>📅 Task Scheduler — daily, weekly, and startup automation</li>
+<li>📈 Analytics Dashboard — historical scheduling insights</li>
+<li>🔐 Encrypted Configuration — secured credentials and settings</li>
+<li>🌙 Enhanced Terminal Themes — dark, light, and custom color schemes</li>
+<li>🔌 Plugin System — extend without touching the core framework</li>
+<li>🐳 Docker Support — containerized, portable deployment</li>
+<li>🤖 AI-Assisted Automation — smart scheduling and conflict detection</li>
+</ul>
+</td>
+</tr>
+</table>
 
-Contributions are welcome — fork the repo, create a feature branch, and open a pull request. See the full contribution workflow in the repository.
+<p>Contributions are always welcome! Fork the repository, create a feature branch, and open a pull request describing what changed and why. See the full contribution workflow, coding guidelines, and FAQ in the project repository.</p>
 
-<br>
+<div align="center">
+<a href="https://github.com/guptaji0358/GymSync-CLI/fork"><img src="https://img.shields.io/badge/🍴%20Fork%20this%20Repo-238636?style=for-the-badge" alt="Fork"/></a>
+<a href="https://github.com/guptaji0358/GymSync-CLI/issues"><img src="https://img.shields.io/badge/🐞%20Report%20a%20Bug-f85149?style=for-the-badge" alt="Report Bug"/></a>
+<a href="https://github.com/guptaji0358/GymSync-CLI/issues"><img src="https://img.shields.io/badge/💡%20Request%20a%20Feature-8957e5?style=for-the-badge" alt="Request Feature"/></a>
+</div>
+
+<br/>
+
+## 📈 Project Status
+
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td bgcolor="#0d1117" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
+<pre><code>Project Name      : GymSync-CLI
+Version           : 1.0.0
+Development       : Completed
+Maintenance       : Active
+Language          : Python
+Automation        : Selenium WebDriver
+Interface         : Command Line (CLI)
+Browser           : Google Chrome
+Architecture      : Modular
+License           : MIT
+Status            : Stable</code></pre>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
 ## 👨‍💻 Author
 
-<img src="https://img.shields.io/badge/Robin%20Gupta-Lead%20Developer-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Robin%20Gupta-Lead%20Developer-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Robin Gupta"/>
 
-<b>Developer • Python Programmer • C++ Learner • Desktop Application Enthusiast</b>
+<p>Developer • Python Programmer • C++ Learner • Desktop Application Enthusiast</p>
 
-<a href="https://github.com/guptaji0358"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/guptaji0358/GymSync-CLI"><img src="https://img.shields.io/badge/Repository-GymSync--CLI-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /></a>
+<a href="https://github.com/guptaji0358"><img src="https://img.shields.io/badge/GitHub-guptaji0358-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/guptaji0358/GymSync-CLI"><img src="https://img.shields.io/badge/Repository-GymSync--CLI-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
 
-<br><br>
+<br/><br/>
 
-⭐ **If GymSync-CLI helped you, please consider starring the repository!** ⭐
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td align="center" bgcolor="#161b22" style="border:1px solid #30363d;border-radius:10px;padding:16px;">
+<h3>⭐ If this project helped you, consider starring it on GitHub ⭐</h3>
+<p><i>"The core framework is fully optimized, stable, and locked down — this code stands completed as the definitive release."</i></p>
+</td>
+</tr>
+</table>
 
-<br>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:43b02a,50:1f6feb,100:0d1117&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=150&section=footer" width="100%"/>
 
 </div>
